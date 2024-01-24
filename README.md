@@ -8,5 +8,5 @@ To use this script, you need to create a Reddit app:
     4. Create a .env file with the following format:
             CLIENT_ID=<locate this under the name of your app where it says "personal use script">
             CLIENT_SECRET=<this is labeled as 'secret'>
-            USER_AGENT=script:subreddit_notifier:v1.0 (by /u/yourusername)
+            USER_AGENT=script:<app_name>:v1.0 (by /u/yourusername)
     5. Enjoy.
