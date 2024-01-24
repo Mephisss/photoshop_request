@@ -9,4 +9,4 @@ To use this script, you need to create a Reddit app:
             CLIENT_ID=<locate this under the name of your app where it says "personal use script">
             CLIENT_SECRET=<this is labeled as 'secret'>
             USER_AGENT=script:subreddit_notifier:v1.0 (by /u/yourusername)
-    5. Enjoy."
+    5. Enjoy.
