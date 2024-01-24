@@ -28,4 +28,4 @@ def check_new_posts(cur_post):
 cur_post = ""
 while True:
     cur_post = check_new_posts(cur_post)
-    time.sleep(10)  
+    time.sleep(60)  
